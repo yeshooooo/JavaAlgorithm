@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hash/Hash.iml" filepath="$PROJECT_DIR$/Hash/Hash.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaAlgorithm.iml" filepath="$PROJECT_DIR$/JavaAlgorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/fundamental/fundamental.iml" filepath="$PROJECT_DIR$/fundamental/fundamental.iml" />
     </modules>
   </component>
