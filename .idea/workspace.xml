@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01c605af-3f57-4430-9d0f-4045998920e7" name="Changes" comment="start dp">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DP/src/class18/Codes02_CardsInLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DP/src/class19/Code01_Knapsack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,10 +53,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Codes02_CardsInLine">
+  <component name="RunManager" selected="Application.Code01_Knapsack">
     <configuration name="Code01_KMP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Code01_KMP" />
       <module name="String" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code01_Knapsack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class19.Code01_Knapsack" />
+      <module name="DP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -95,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.class01.SelectionSort" />
-      <module name="fundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.class01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_Knapsack" />
         <item itemvalue="Application.Codes02_CardsInLine" />
         <item itemvalue="Application.Code01_RobotWalk" />
         <item itemvalue="Application.Code01_KMP" />
         <item itemvalue="Application.Hash" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
@@ -136,6 +135,8 @@
       <workItem from="1667997574949" duration="6393000" />
       <workItem from="1668090746838" duration="7782000" />
       <workItem from="1668171599690" duration="10477000" />
+      <workItem from="1668271204218" duration="1206000" />
+      <workItem from="1668278990428" duration="6338000" />
     </task>
     <task id="LOCAL-00001" summary="Java 算法">
       <created>1663860005160</created>

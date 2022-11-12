@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaAlgorithm.iml" filepath="$PROJECT_DIR$/JavaAlgorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
       <module fileurl="file://$PROJECT_DIR$/fundamental/fundamental.iml" filepath="$PROJECT_DIR$/fundamental/fundamental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion/recursion.iml" filepath="$PROJECT_DIR$/recursion/recursion.iml" />
     </modules>
   </component>
 </project>
